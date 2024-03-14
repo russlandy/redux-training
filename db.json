@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "8586",
+      "title": "New title here",
+      "views": "4440"
+    },
+    {
+      "id": "7863",
+      "title": "Leopards",
+      "views": 2024
+    },
+    {
+      "id": "67863",
+      "title": "Double",
+      "views": "2022"
+    },
+    {
+      "id": "327863",
+      "title": "Hiredrrrr",
+      "views": 7724
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ]
+}
